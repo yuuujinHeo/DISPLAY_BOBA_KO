@@ -8,5 +8,6 @@
         <file>image/right/right_wait.png</file>
         <file>OneView.qml</file>
         <file>image/background.png</file>
+        <file>image/background_prepare.png</file>
     </qresource>
 </RCC>

@@ -31,6 +31,14 @@ Window {
         source: "font/lotteDreamLight.ttf"
     }
 
+    Image{
+        id: imagePreOperation
+        x: 0
+        y: 0
+        width: parent.width
+        height: parent.height
+        source: "image/background_prepare.png"
+    }
 
     Image{
         id: imageBackground
